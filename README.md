@@ -1,4 +1,4 @@
-# Project Title
+# Traffic racer game
 
 Traffic racer game created using Python and Ursina game engine.
 
